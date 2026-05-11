@@ -1,5 +1,4 @@
-# Retail-Sales-Analytics-PowerBI
-# Retail Sales Analytics Dashboard – Power BI
+# Retail-Sales-Analytics Dashboard-PowerBI
 
 ## 📌 Project Overview
 This project is an end-to-end Power BI dashboard built using Superstore retail sales data.
